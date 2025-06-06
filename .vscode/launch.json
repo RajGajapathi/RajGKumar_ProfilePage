@@ -7,7 +7,7 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open RelativePosExample.html",
+            "name": "Open Index.html",
             "file": "c:\\Users\\RKUMAR83\\OneDrive - azureford\\Personal\\WebDeveloper\\ProfilePage\\RelativePosExample.html"
         }
     ]
